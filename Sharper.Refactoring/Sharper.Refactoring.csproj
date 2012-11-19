@@ -36,6 +36,17 @@
     <Reference Include="Mono.TextEditor">
       <HintPath>..\..\..\Program Files %28x86%29\MonoDevelop\bin\Mono.TextEditor.dll</HintPath>
     </Reference>
+    <Reference Include="ICSharpCode.NRefactory.CSharp">
+      <HintPath>..\..\..\Program Files %28x86%29\MonoDevelop\bin\ICSharpCode.NRefactory.CSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="ICSharpCode.NRefactory">
+      <HintPath>..\..\..\Program Files %28x86%29\MonoDevelop\bin\ICSharpCode.NRefactory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Core" />
+    <Reference Include="MonoDevelop.Refactoring">
+      <HintPath>..\..\..\Program Files %28x86%29\MonoDevelop\AddIns\MonoDevelop.Refactoring\MonoDevelop.Refactoring.dll</HintPath>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AssemblyInfo.cs" />
