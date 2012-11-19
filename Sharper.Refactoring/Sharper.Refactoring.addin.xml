@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Addin 
+	namespace	=	"Sharper.Refactoring"
+	id 			= 	"IntroduceVariable"
+	name		=	"Introduce Variable"
+	author		=	"Vladimir Vasiltsov"
+	copyright	=	"Vladimir Vasiltsov (c) 2012"
+	url			=	"http://"
+	>
+</Addin>
+
